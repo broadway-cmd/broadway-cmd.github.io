@@ -3639,7 +3639,7 @@ ytm15-comment-replies .comment-pfp-container {
     padding: 1px 6px;
     border-radius: 8px;
     color: #fff;
-    background-color: #e62117;
+    background-color: #232323;
 }
 .comment-published-time {
     white-space: nowrap;
@@ -3699,7 +3699,7 @@ button.comment-icon-button {
     margin: 0;
 }
 .pinned-comment-badge {
-    color: #e62117;
+    color: #232323;
     margin-bottom: 5px;
     display: flex;
     align-items: center;
@@ -4452,7 +4452,7 @@ html.style-2013 {
     border-radius: 0;
 }
 .style-2013 .material-button-container[data-style="BRAND"] .material-button {
-    background: linear-gradient(#E62117, #d62117);
+    background: linear-gradient(#232323, #d62117);
     border: 1.2px solid #d10000;
 }
 .style-2013 .material-button-container[data-style="BRAND"] {
@@ -6094,4 +6094,5 @@ html.style-2013.dark.dark-21 {
 .style-2013.dark.dark-21 .ytm15-video-owner .material-button-container[data-style="BRAND"] .material-button {
     background: linear-gradient(#323232, #252525);
 }
+
 
